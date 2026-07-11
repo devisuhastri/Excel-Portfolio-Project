@@ -1,7 +1,7 @@
 # Data Analyst portfolio
 Excel Portfolio Project for Sales Data Analysis
 
-## 📂 Excel Projects
+## 📂 Projects
 
 ### Session 1 - Excel Basics + Git/Github
 Introducing for excel fundamentals and version control basics (Git & GitHub) for managing portfolio projects.
