@@ -1,32 +1,73 @@
-# Data Analyst portfolio
-Excel Portfolio Project for Sales Data Analysis
+# Excel Portfolio Datasets
 
-## 📂 Projects Overview
+This repository contains two dataset options for the Excel portfolio project.
 
-### Session 1 - Excel Basics + Git/Github
-Introducing for excel fundamentals and version control basics (Git & GitHub) for managing portfolio projects.
+Students can choose one dataset and use it to build their own Excel data analysis portfolio.
 
-### Session 2 - Data Cleaning Tools & Text Formulas
-Cleaning & standardizing raw data using Excel Text Functions (TRIM, PROPER, LENGTH, SUBSTITUTE, CONCATENATE, etc).
+## Dataset Options
 
-### Session 3 - Conditional Analysis + Lookups
-Using conditional formulas (IF, SUMIF, COUNTIF) combined with lookup functions (VLOOKUP, INDEX, MATCH).
+### 1. Sales Performance Analysis
 
-### Session 4 - Pivot Tables + Excel Dashboard
-Building pivot tables and an interactive dashboard to summarize and visualize key data insights.
+File:
 
-### Session 5 - Power Query: Basic to Intermediate
-Using Power Query to import, transform, and clean data efficiently before analysis.
+`datasets/dataset-1-sales-performance.xlsx`
 
-### Session 6 - Intermediate Pivot + Advanced Formulas
+Use this dataset if you want to analyze:
 
-### Session 7 - Power Pivot + Portfolio/Capstone Showcase
-Using Power Pivot for advanced data modeling, and preparing the final data capstone portfolio project.
+- sales revenue
+- profit
+- product category performance
+- sales region
+- sales channel
+- order status
+- monthly business trend
 
-### Session 8 - Capstone Introduction (Upcoming)
+Recommended portfolio direction:
 
-## 🛠 Tools Used
-- Microsoft Excel (Formulas, Pivot Tables, Charts, Dashboards, Power Query, and Power Pivot)
-- Git & GitHub
+> Analyze sales performance to identify revenue drivers, profit patterns, and business areas that need attention.
 
-## 🗃 Files (Upcoming)
+### 2. Customer Orders & Retention Analysis
+
+File:
+
+`datasets/dataset-2-customer-orders.xlsx`
+
+Use this dataset if you want to analyze:
+
+- customer segments
+- order value
+- acquisition channel
+- product category
+- delivery status
+- satisfaction
+- customer behavior
+
+Recommended portfolio direction:
+
+> Analyze customer order behavior to understand customer value, satisfaction, and retention opportunities.
+
+## What To Do
+
+1. Choose one dataset.
+2. Review the raw data.
+3. Check the data dictionary.
+4. Read the suggested business questions.
+5. Complete the cleaning log in business language.
+6. Build your Excel analysis workbook.
+7. Create a dashboard or summary view.
+8. Write 2-3 business insights.
+9. Prepare your GitHub portfolio repository.
+
+## Portfolio Reminder
+
+Your final portfolio should explain:
+
+- business objective
+- dataset overview
+- data preparation notes
+- analysis process
+- dashboard or summary result
+- key insights
+- files included in the repository
+
+Keep the explanation clear, professional, and easy to understand.
