@@ -1,38 +1,16 @@
 # Excel Portfolio Datasets
 
-This repository contains two dataset options for the Excel portfolio project.
+This repository contains dataset for the Excel portfolio project.
 
-Students can choose one dataset and use it to build their own Excel data analysis portfolio.
+## Dataset
 
-## Dataset Options
-
-### 1. Sales Performance Analysis
+### Customer Orders & Retention Analysis
 
 File:
 
-`datasets/dataset-1-sales-performance.xlsx`
+`datasets/dataset-2-customer-orders(1).xlsx`
 
-Use this dataset if you want to analyze:
-
-- sales revenue
-- profit
-- product category performance
-- sales region
-- sales channel
-- order status
-- monthly business trend
-
-Recommended portfolio direction:
-
-> Analyze sales performance to identify revenue drivers, profit patterns, and business areas that need attention.
-
-### 2. Customer Orders & Retention Analysis
-
-File:
-
-`datasets/dataset-2-customer-orders.xlsx`
-
-Use this dataset if you want to analyze:
+Using this dataset that I want to analyze:
 
 - customer segments
 - order value
